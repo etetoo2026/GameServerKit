@@ -7,7 +7,7 @@ A production-grade foundation for building TCP-based multiplayer game servers in
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/GameServerKit
+git clone https://github.com/MrHassan2027/GameServerKit
 cd GameServerKit
 dotnet build
 dotnet run --project GameServerKit.Demo
